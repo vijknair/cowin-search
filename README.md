@@ -1,4 +1,4 @@
-# CoWIN Vaccine Slot Search
+# Co-WIN Vaccine Slot Search
 
 A super simple Vaccine search application, will give you OS notification when a slot is available per your preference! I know that only tech folks will be able to use this, infact my intended audience was the same. During you working hours, you may leave this running behind the scene, you may act when you see an alert popping out. I am assuming this shoudl be a tad bit faster than the Telegram alerts, see if it's useful. 
 
